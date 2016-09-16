@@ -1,12 +1,8 @@
 # Greetings
 
-> The world best GO greeting library!
+## Lab
 
-## Installation
-
-```
-go get github.com/derailed/imhotep/golabs/greetings
-```
+> Write a greetings library package that greets a given user.
 
 ## Use cases
 
@@ -15,3 +11,8 @@ go get github.com/derailed/imhotep/golabs/greetings
 * Add Table Tests
 * Add Benchmarking
 
+## Expectations
+
+```
+Hello, my name is `Fernand!
+```
